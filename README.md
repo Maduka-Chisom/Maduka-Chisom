@@ -15,5 +15,5 @@ I'm a Software Engineer currently who is currently a student AltSchool Africa [S
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Maduka-Chisom&show_icons=true&include_all_commits=true&hide_border=true" alt="Chisom's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maduka-Chisom&langs_count=8&layout=compact&hide_border=true" alt="Chisoms's GitHub stats" /> |
 | ------------- | ------------- |
